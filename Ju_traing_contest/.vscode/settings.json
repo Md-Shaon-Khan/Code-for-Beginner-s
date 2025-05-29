@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "SUMMATION.C": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp"
+    }
+}
